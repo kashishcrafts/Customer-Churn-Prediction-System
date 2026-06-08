@@ -1,0 +1,5 @@
+Timestamp,Tenure,Monthly Charges,Contract,Prediction,Probability (%)
+2026-06-09 01:04:34,12,70.0,Month-to-month,Stay,23.5
+2026-06-09 01:12:26,12,70.0,Month-to-month,Stay,23.5
+2026-06-09 01:30:37,12,Month-to-month,Stay,23.5
+2026-06-09 01:37:28,60,Two year,Stay,0.07
