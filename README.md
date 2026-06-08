@@ -1,5 +1,7 @@
 # 📊 Customer Churn Prediction System
 
+#LIVE DEMO: https://kashishcrafts-customer-churn-prediction-system-app-gql9ra.streamlit.app/
+
 ## 🚀 Overview
 
 Customer Churn Prediction System is an AI-powered analytics dashboard that predicts whether a customer is likely to leave a company based on customer demographics, billing information, and subscribed services.
